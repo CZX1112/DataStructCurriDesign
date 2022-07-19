@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>OlympicsPicture/AllEvent.jfif</file>
+        <file>OlympicsPicture/background1.jfif</file>
+        <file>OlympicsPicture/background2.jfif</file>
+        <file>OlympicsPicture/FiveRings.jfif</file>
+        <file>OlympicsPicture/FiveRings2.jfif</file>
+        <file>OlympicsPicture/FiveRings3.jfif</file>
+        <file>OlympicsPicture/picture2.jfif</file>
+        <file>OlympicsPicture/background3.jfif</file>
+        <file>OlympicsPicture/background4.jfif</file>
+        <file>OlympicsPicture/background5.jfif</file>
+        <file>OlympicsPicture/background6.jfif</file>
+        <file>OlympicsPicture/Medal1.jfif</file>
+        <file>OlympicsPicture/Medal2.jfif</file>
+        <file>OlympicsPicture/Medal3.jfif</file>
+        <file>OlympicsPicture/background7.jfif</file>
+    </qresource>
+</RCC>
