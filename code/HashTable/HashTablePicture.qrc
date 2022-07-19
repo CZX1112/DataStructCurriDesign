@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>HashTablePicture/frame.png</file>
+        <file>HashTablePicture/frame2.png</file>
+        <file>HashTablePicture/HeadNodeFrame.png</file>
+        <file>HashTablePicture/keyframe.png</file>
+        <file>HashTablePicture/valueframe.png</file>
+        <file>HashTablePicture/background1.jfif</file>
+        <file>HashTablePicture/background2.jfif</file>
+        <file>HashTablePicture/background3.jpg</file>
+        <file>HashTablePicture/background4.jpg</file>
+        <file>HashTablePicture/background5.jpg</file>
+        <file>HashTablePicture/background6.jfif</file>
+    </qresource>
+</RCC>
